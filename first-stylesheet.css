@@ -1,0 +1,57 @@
+    <style>
+    body{background:url(http://data.whicdn.com/images/78145768/original.gif); 
+      background-size:cover;
+      opacity:0.8;}
+   header h2{color:coral;
+    opacity:0.8;
+    font-family:"Stencil Std",monospace;
+    font-size: 200%;
+    text-align: center;}
+    
+    header img{border-radius: 10%;
+    
+    height:auto;;
+    width:100%;}
+    
+    #cat {width:30%; height:auto;
+    }
+    nav 
+    { background-color: azure;
+      opacity: 0.8;
+    text-align: center;}
+      
+      nav {text-decoration:inherit;
+         font-family: "Luminari", monospace;
+        color:firebrick;
+         }
+    nav a:hover{background-color: orangered;
+    font-size: 1.5em;
+    opacity: 0.6;}
+    
+   
+    article {font-family: "Apple Chancery",monospace;
+               color:saddlebrown;
+               }
+   article img {
+    border-radius: 80%;}
+    
+    #second {font-family: "Chalkduster",monospace;
+              color:brown;}
+    #second {
+       white-space: nowrap; 
+    width: 200px; 
+    overflow: hidden; 
+    border: 1px solid;
+    }
+    #second:hover{text-overflow: inherit;
+    overflow: visible;}
+    
+    aside {font-family: "allerta stencil",monospace;
+          color:darkorange;}
+    aside a:hover{font-size:1.5em;
+                  background-color:antiquewhite;}
+    
+    footer {color:skyblue;
+    opacity: 70%;}
+    
+    </style>
